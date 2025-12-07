@@ -1,5 +1,22 @@
 This repository contains code for training and evaluating music recommendation models, focusing on fairness analysis across artist genders. The implementation is based on the [1st place solution](https://github.com/lystdo/Codes-for-WSDM-CUP-Music-Rec-1st-place-solution) from the WSDM CUP 2018 Music Recommendation Challenge.
 
+Description of the various files:
+
+- analysis-final.ipynb - final profiling and analysis
+
+
+- analysis-scratch.ipynb - temporary notebook used for initial analysis of results
+
+
+- artist-scraper.ipynb - used to grab artist demographic data from MusicBrainz
+
+
+- prediction-merge.ipynb - merges predictions from the individual models to create a set of final predictions
+
+
+- profiling.ipynb - temporary notebook used for initial profiling analyses
+  
+
 ## Data Requirements
 
 To run various notebooks, you will need to add the following data files (from [Kaggle Competition](https://www.kaggle.com/competitions/kkbox-music-recommendation-challenge/data)) manually to the `data/` folder:
