@@ -1,4 +1,3 @@
-
 This repository contains code for training and evaluating music recommendation models, focusing on fairness analysis across artist genders. The implementation is based on the [1st place solution](https://github.com/lystdo/Codes-for-WSDM-CUP-Music-Rec-1st-place-solution) from the WSDM CUP 2018 Music Recommendation Challenge.
 
 ## Data Requirements
