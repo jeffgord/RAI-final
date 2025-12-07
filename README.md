@@ -2,19 +2,19 @@ This repository contains code for training and evaluating music recommendation m
 
 Description of the various files:
 
-- analysis-final.ipynb - final profiling and analysis
+- `analysis-final.ipynb` - final profiling and analysis
 
 
-- analysis-scratch.ipynb - temporary notebook used for initial analysis of results
+- `analysis-scratch.ipynb` - temporary notebook used for initial analysis of results
 
 
-- artist-scraper.ipynb - used to grab artist demographic data from MusicBrainz
+- `artist-scraper.ipynb` - used to grab artist demographic data from MusicBrainz
 
 
-- prediction-merge.ipynb - merges predictions from the individual models to create a set of final predictions
+- `prediction-merge.ipynb` - merges predictions from the individual models to create a set of final predictions
 
 
-- profiling.ipynb - temporary notebook used for initial profiling analyses
+- `profiling.ipynb` - temporary notebook used for initial profiling analyses
   
 
 ## Data Requirements
