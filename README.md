@@ -133,13 +133,6 @@ After generating predictions, run the analysis notebooks:
 
 **`analysis-final.ipynb`**
 
-The analysis includes:
-- Performance metrics 
-- Fairness metrics
-- Gender-based analysis
-- Popularity-based analysis
-- Combined visualizations
-
 ## System Requirements
 
 ### Dependencies:
